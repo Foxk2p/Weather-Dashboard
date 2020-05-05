@@ -1,0 +1,36 @@
+/* body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+} */
+
+.jumbotron {
+  text-align: center;
+  background-color: rgb(33, 80, 199);
+  color: rgb(238, 237, 237);
+  border-radius: 0;
+  border-bottom: 8px solid black;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
